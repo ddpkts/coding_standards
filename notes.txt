@@ -18,8 +18,5 @@ Ruleset
   * Class declaration
   * Side Effects
 
-Commenting/FunctionCommentSniff
- - Added special treatment for @return statements
-
 Functions/ForbiddenFunctionsSniff
  - Added var_dump to forbidden functions pool
