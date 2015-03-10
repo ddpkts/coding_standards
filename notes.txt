@@ -18,12 +18,6 @@ Ruleset
   * Class declaration
   * Side Effects
 
-Commenting/ClassCommentSniff
- Changes are class/interface comment related
- - Removed tags from checking
- - Modified comment parsing
- - Modified error messages
-
 Commenting/FunctionCommentSniff
  - Added special treatment for @return statements
 
