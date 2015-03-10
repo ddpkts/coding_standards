@@ -49,10 +49,6 @@
         <exclude-pattern>*</exclude-pattern>
     </rule>
 
-    <rule ref="Oxid.Commenting.FunctionComment.MissingParamComment">
-        <type>warning</type>
-    </rule>
-
     <rule ref="PSR2.Classes.PropertyDeclaration.Underscore">
         <exclude-pattern>*</exclude-pattern>
     </rule>
